@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lucas Costa.
 - 🏠 I'm living in Muzambinho-MG.
-- 🏫 I'm study at IFSULDEMINAS - Campus Muzambinho, currently in the second semester.
+- 🏫 I'm study at IFSULDEMINAS - Campus Muzambinho, currently in the second semester of the Computer Science course.
 - 👀 I’m interested in Machine Learning, Computer Vision and Deep Learning.
 - 🌱 I’m currently learning Python and Deep Neural Networks.
 
