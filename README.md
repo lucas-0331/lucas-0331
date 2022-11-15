@@ -1,6 +1,6 @@
 ##
 
-- 👋 Hi, I’m Lucas Costa.
+- 👋 Hi, I’m Lucas Costa Silva.
 - 🏠 I'm living in Muzambinho-MG.
 - 🏫 I'm study at IFSULDEMINAS - Campus Muzambinho, currently in the second semester of the Computer Science course.
 - 👀 I’m interested in Machine Learning, Computer Vision and Deep Learning.
