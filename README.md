@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning Python and Deep Neural Networks.
 
 ##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AD7F7&width=435&lines=Hi+there!+This+my+profile!;My+name+is+Lucas%2C+and+I'm+from+Brazil.;I'm+a+Bachelor's+student+in+Computer+Science.;I'm+a+programming+enthusiast+always+looking+to+learn+more.)](https://git.io/typing-svg)
+
+##
 <!--
 -->
 <div align="center">
