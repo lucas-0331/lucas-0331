@@ -7,7 +7,7 @@
 - 🏠 I'm living in Muzambinho-MG.
 - 🏫 I'm study at IFSULDEMINAS - Campus Muzambinho, currently in the fourth semester of the Computer Science course.
 - 👀 I’m interested in Machine Learning, Computer Vision and Deep Learning.
-- 🌱 I’m currently learning Python and Deep Neural Networks.
+- 🌱 I’m currently learning Rust, Python and Deep Neural Networks.
 <!--
 ##
 <div align="center">
