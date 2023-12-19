@@ -39,8 +39,9 @@
   <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-<!-- Estatísticas do GitHub -->
+<!-- Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-0331&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-0331&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+ -->
