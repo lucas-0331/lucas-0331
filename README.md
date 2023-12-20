@@ -7,9 +7,9 @@
 
 <!-- Resumo -->
 - 🏠 Moro em Muzambinho-MG.
-- 🏫 Estudo no IFSULDEMINAS - Campus Muzambinho, atualmente no quarto semestre do curso de Ciência da Computação.
+- 🏫 Estudo no IFSULDEMINAS - Campus Muzambinho, atualmente no quinto semestre do curso de Ciência da Computação.
 - 👀 Interessado em Machine Learning, Computer Vision e Deep Learning.
-- 🌱 Aprendendo atualmente Python e Deep Neural Networks.
+- 🌱 Aprendendo Python, Django e Deep Learning.
 
 <!-- Título das Habilidades -->
 ## Habilidades
