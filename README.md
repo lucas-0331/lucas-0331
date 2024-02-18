@@ -11,7 +11,10 @@
 - 👀 Interessado em Machine Learning, Computer Vision e Deep Learning.
 - 🌱 Aprendendo o que for necessário.
 
+#
+
 <!-- Título das Habilidades -->
+<!--
 ## Habilidades
 
 ### Linguagens
