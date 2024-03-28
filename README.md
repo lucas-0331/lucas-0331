@@ -14,7 +14,6 @@
 #
 
 <!-- Título das Habilidades -->
-<!--
 ## Habilidades
 
 ### Linguagens
@@ -37,7 +36,7 @@
 ### Frameworks
 <div style="display: flex; flex-wrap: wrap;">
   <img alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
 ### Sistema Operacional
